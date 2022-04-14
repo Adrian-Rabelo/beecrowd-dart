@@ -5,3 +5,8 @@
 # Conventional directory for build output.
 build/
 .vscode/launch.json
+.packages
+analysis_options.yaml
+CHANGELOG.MD
+pubspec.lock
+pubspec.yaml
