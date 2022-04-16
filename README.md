@@ -1,1 +1,2 @@
 Meu repositório de respostas para apredizado (e treinamento de lógica) das questões do Beecrowd
+> Utilizei a verificação de nulidade com **if ()** pois não consegui fazer o Beecrowd aceitar a verificação com "**!**" do próprio Dart
